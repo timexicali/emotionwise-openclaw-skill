@@ -60,7 +60,7 @@ clawhub login
 Run from this project directory:
 
 ```bash
-cd "/Users/danielgomez/Documents/Openclaw/emotionwise-openclaw-skill"
+cd "/path/to/emotionwise-openclaw-skill"
 clawhub publish . \
   --slug emotionwise \
   --name "EmotionWise API" \
@@ -71,7 +71,7 @@ clawhub publish . \
 
 ### 3) Publish updates
 ```bash
-cd "/Users/danielgomez/Documents/Openclaw/emotionwise-openclaw-skill"
+cd "/path/to/emotionwise-openclaw-skill"
 clawhub publish . \
   --slug emotionwise \
   --version 0.1.1 \
