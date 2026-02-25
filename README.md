@@ -36,6 +36,14 @@ In your OpenClaw config (usually `~/.openclaw/openclaw.json`):
 openclaw skills install /absolute/path/to/emotionwise-openclaw-skill
 ```
 
+If you cloned this repository:
+
+```bash
+git clone https://github.com/timexicali/emotionwise-openclaw-skill.git
+cd emotionwise-openclaw-skill
+openclaw skills install "$(pwd)"
+```
+
 ## Usage examples
 - "Analyze emotions in: I’m excited but a little nervous about launch day."
 - "Check if this is sarcastic: Great, another bug right before deploy."
