@@ -83,5 +83,5 @@ cd "/path/to/emotionwise-openclaw-skill"
 clawhub publish . \
   --slug emotionwise \
   --version 0.1.2 \
-  --changelog "Improved instructions and error handling"
+  --changelog "Compatibility fixes and packaging cleanup"
 ```
