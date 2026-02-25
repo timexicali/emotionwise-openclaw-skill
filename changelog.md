@@ -1,7 +1,7 @@
 # Changelog
 
 ## 0.1.1
-- Improved instructions and publish guidance
+- Initial public release
 
 ## 0.1.0
 - Initial public version
